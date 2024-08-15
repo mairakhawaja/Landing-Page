@@ -206,6 +206,7 @@ input, select, textarea {
 	h1 {
 		font-size: 3.5rem;
 		line-height: 1.2;
+		color: #1ebdd1;
 	}
 
 	h2 {
@@ -325,6 +326,9 @@ input, select, textarea {
 
 		a:hover {
 			color: #47D3E5;
+		}
+		<title :hover> {
+			color:#1ebdd1;
 		}
 
 	strong, b {
